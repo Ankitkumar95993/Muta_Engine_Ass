@@ -1,0 +1,25 @@
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Node.js dependency directories in server
+node_modules/
+jspm_packages/
+
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# MacOS files
+.DS_Store
+
+# Editor-specific settings (VSCode, JetBrains, Sublime, etc.)
+.vscode/
